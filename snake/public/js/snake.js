@@ -4,7 +4,7 @@ export default class snake {
 
         // speed snake
         this.lastMoveTime = 0;
-        this.moveInterval = 100;
+        this.moveInterval = 200;
 
         this.tileSize = 16;
         this.direction = Phaser.Math.Vector2.DOWN;
