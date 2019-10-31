@@ -14,7 +14,7 @@ export default class snake {
         this.body.push(
             this.scene.add
             .rectangle(
-                0, 0, this.tileSize, this.tileSize, 0x00ff00
+                0, 0, this.tileSize, this.tileSize, 0x40ff00
             )
             .setOrigin(0)
         );
@@ -77,7 +77,7 @@ export default class snake {
 
         // Snake eating the apple
         if (this.apple.x === x && this.apple.y === y) {
-            this.body.push(this.scene.add.rectangle(0, 0, this.tileSize, this.tileSize, 0Xffffff).setOrigin(0));
+            this.body.push(this.scene.add.rectangle(0, 0, this.tileSize, this.tileSize, 0X04b431).setOrigin(0));
             this.positionApple();
         }
 
