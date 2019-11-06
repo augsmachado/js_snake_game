@@ -9,3 +9,5 @@ Para conferir a versão, abra uma janela de comando para isso clique em **Inicia
 Após instalar o node, baixe o repositório [clicando aqui](https://github.com/augsmachado/snake-game) e o desempacote. Em sequência, acesse o a pasta onde se encontra o repositório via terminal e acesse a pasta **snake**. Após acessar a pasta **snake**, digite o comando **node index.js**. No navegador, digite **localhost:3000**.
 
 Você está apto para jogar Snake ;)
+
+[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmkPjRUWVr4znvnW2FcfzzmMUpHoH8dz2aAfZz4uOumRBn4kQD&s)](https://youtu.be/3K7WmwQTMyI)
