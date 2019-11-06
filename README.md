@@ -10,4 +10,6 @@ Após instalar o node, baixe o repositório [clicando aqui](https://github.com/a
 
 Você está apto para jogar Snake ;)
 
-[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmkPjRUWVr4znvnW2FcfzzmMUpHoH8dz2aAfZz4uOumRBn4kQD&s)](https://youtu.be/3K7WmwQTMyI)
+Veja a demonstração clicando na imagem abaixo.
+
+[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmkPjRUWVr4znvnW2FcfzzmMUpHoH8dz2aAfZz4uOumRBn4kQD&s)](https://youtu.be/3K7WmwQTMyI?rel=0)
